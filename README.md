@@ -50,19 +50,19 @@ Step 5 run migrations
 Step 6 run npm
 
 ```bash
-npm i
+  npm i
 ```
 
 Step 7 Update CSS
 
 ```bash
-npx tailwindcss -o public/css/app.css
+  npx tailwindcss -o public/css/app.css
 ```
 
 Step 8 link storage
 
 ```bash
-php artisan storage:link
+  php artisan storage:link
 ```
 
 Step 9: Start the server
